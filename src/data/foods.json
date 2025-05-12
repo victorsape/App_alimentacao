@@ -1,0 +1,14 @@
+[
+    { "id": 1, "nome": "Ovos Cozidos", "calorias": 70, "categoria": "proteína", "porcao": "2 unidades", "restricoes": [] },
+    { "id": 2, "nome": "Peito de Frango Grelhado", "calorias": 165, "categoria": "proteína", "porcao": "150g", "restricoes": [] },
+    { "id": 3, "nome": "Salmão Assado", "calorias": 208, "categoria": "proteína", "porcao": "120g", "restricoes": [] },
+    { "id": 4, "nome": "Aveia em Flocos", "calorias": 150, "categoria": "carboidrato", "porcao": "40g", "restricoes": ["gluten"] },
+    { "id": 5, "nome": "Arroz Integral Cozido", "calorias": 111, "categoria": "carboidrato", "porcao": "1/2 xícara", "restricoes": [] },
+    { "id": 6, "nome": "Batata Doce Cozida", "calorias": 86, "categoria": "carboidrato", "porcao": "1 unidade média", "restricoes": [] },
+    { "id": 7, "nome": "Brócolis Cozido", "calorias": 55, "categoria": "vegetal", "porcao": "1 xícara", "restricoes": [] },
+    { "id": 8, "nome": "Espinafre Cozido", "calorias": 23, "categoria": "vegetal", "porcao": "1 xícara", "restricoes": [] },
+    { "id": 9, "nome": "Banana", "calorias": 105, "categoria": "fruta", "porcao": "1 unidade média", "restricoes": [] },
+    { "id": 10, "nome": "Maçã", "calorias": 95, "categoria": "fruta", "porcao": "1 unidade média", "restricoes": [] },
+    { "id": 11, "nome": "Iogurte Natural Integral", "calorias": 150, "categoria": "laticínio", "porcao": "1 pote", "restricoes": ["lactose"] },
+    { "id": 12, "nome": "Leite de Amêndoas", "calorias": 40, "categoria": "laticínio", "porcao": "1 xícara", "restricoes": ["lactose"] }
+  ] 
